@@ -1,0 +1,12 @@
+<div class="col-xs-12">
+  <label>Nome</label>
+  <input class="form-control" type="text" #nome>
+  <label>Città</label>
+  <input class="form-control" type="text" #citta>
+  <label>Età</label>
+  <input class="form-control" type="number" #eta>
+</div>
+<div class="col-xs-12 margin-top">
+  <hr>
+  <button class="btn btn-success" (click)="getUser(nome.value, citta.value, eta.value)">Salva</button>
+</div>

@@ -1,0 +1,24 @@
+{
+  "users" : [
+ {
+   "nome" : "Mario",
+   "citta" : "Bari",
+   "eta" : "33"
+ },
+ {
+  "nome" : "Filippo",
+  "citta" : "Roma",
+  "eta" : "25"
+},
+{
+  "nome" : "Giovanni",
+  "citta" : "Milano",
+  "eta" : "37"
+},
+{
+  "nome" : "Pippo",
+  "citta" : "Monza",
+  "eta" : "39"
+}
+  ]
+}
